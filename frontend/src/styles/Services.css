@@ -1,0 +1,15 @@
+.services-container {
+    text-align: center;
+    padding: 120px 20px 20px;  /* Add padding at the top */
+    background-color: #ffffff;
+}
+
+.services-container h1 {
+    color: #333;
+    font-size: 2rem;
+}
+
+.services-container p {
+    font-size: 1.2rem;
+    color: #666;
+}

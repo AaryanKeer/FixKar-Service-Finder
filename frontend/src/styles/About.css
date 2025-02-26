@@ -1,0 +1,15 @@
+.about-container {
+    text-align: center;
+    padding: 120px 20px 20px; /* Top padding to prevent overlap with navbar */
+    background-color: #f9f9f9;
+}
+
+.about-container h1 {
+    color: #333;
+    font-size: 2rem;
+}
+
+.about-container p {
+    font-size: 1.2rem;
+    color: #666;
+}
